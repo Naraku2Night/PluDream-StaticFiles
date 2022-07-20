@@ -1,0 +1,694 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "梦华源",
+  "version": "0.1.0",
+  "author": "Naraku_Night",
+  "description": "",
+  "fileApi": "https://down.mc.pluteam.xyz/client/lite",
+  "url": "",
+  "forceUpdate": true,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.16.5"
+    },
+    {
+      "id": "forge",
+      "version": "36.2.35"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/appliedenergistics2-client.toml",
+      "hash": "b37bdb8ed746c4b20218e4d7d97dcfd64795d03a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/appliedenergistics2-common.toml",
+      "hash": "60c3fe0451498002cb9422853f3dc201cebf87de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery-client.toml",
+      "hash": "955463a0c7faee8256372ce217dd3831ff72cc80",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/astralsorcery-common.toml",
+      "hash": "c00d2d7368700860ec1bd02b79c6969b708c7d0c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterfpsdist-common.toml",
+      "hash": "7c2759b3ff58164548676ba47e16bd95b68de0dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cfm-client.toml",
+      "hash": "3eb32f3a010bb235fd71edb17fc9943df5340f7a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cfm-common.toml",
+      "hash": "cd0fd1108e7eb08a1b1f4fce9f7dde7042548783",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/computercraft-client.toml",
+      "hash": "1eb9c55f3b0f200bc954fa56f5c6638c5bd5d68f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "593a6078e4f9d38a86bfaf5cecfea8450889e68c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "3c560b803a91102b1251d97be293859d72efdd10",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "hash": "0696ed6cbacff7b5cc933f8bafd80e63b612b73b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/create_stuff_additions/fuel.json",
+      "hash": "04a6d69f3077828e52c0a682eca7a15794c1b5e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "a42264be7e4960427a41f6078bf277db50ba80fb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "91e0e8ee93752a03681e1a3fd51c54bc6bcf76cf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "2c37f48e498bc3bf308ad53c6e751f7fb2548dde",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "d90d3e136388d27928a1941d30671a0003af5178",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fastbench.cfg",
+      "hash": "55829fd45ed80f7b2cca17e4dc2a1fd3d9ff4cd9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fastsuite.cfg",
+      "hash": "8838232046670962306abde062387ce76654acd0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "e82a04444eed6de53d77bc2fb92e1a16236748ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "18015f5fb2d36662bcc0400c3f4662da43cb3ba1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "9b4be92db18c14e25afcc69a49f7ae06e987c2df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "21dd91c05c92d5bb9ebccf6280a0b1ffba743f4b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "8a9d760e17ef5a22db57516c876c3997dae1b5fe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fpsreducer/fpsreducer-client.toml",
+      "hash": "458e92453e1e80fe56be500f3316123b410df014",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade-common.toml",
+      "hash": "9c2511387492f6feb4a892ce566f38bbbc17fea9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jecharacters.toml",
+      "hash": "5c0313539228863cdaed4a917375160ca0ab0e64",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "c346abe835074bfc75b86962e7a1e6db7b03b548",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "b6c3464529875d59372e2c07ed106f55cf049edc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "f147247194256a4509c2bf8874aacbf4f21deb78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei-client.toml",
+      "hash": "1e085a289639b59dcbb6bc96fc739792c48d324e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeresources-common.toml",
+      "hash": "6aa78dcf4043839e101c0b116a05d6e936272585",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeresources.toml",
+      "hash": "5488c358d2c0aa830e73bc9795a1a18c36256407",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/oreexcavation/block_groups.json",
+      "hash": "0635cdf5d1376d58002b2b7ab6742d426b30eb94",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/oreexcavation/shapes.json",
+      "hash": "8daf411d50662c6029d32c6dbca3b845b505b0e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/oreexcavation/tool_overrides.json",
+      "hash": "8d6e2a5e0cf40d518b7bf84dc102895f04938cd3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/oreexcavation-client.toml",
+      "hash": "577e61af3e74d9216e040d04202095b109a2d3c9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/oreexcavation-common.toml",
+      "hash": "c46354fcd4d47d502e9bd12632ed318c65b332a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "95865c1fba5159525364fd7ec2ba7623f1a2d287",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/psi-client.toml",
+      "hash": "dfadbf0f1a448ffed67b1e84e2dcefa582475218",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/psi-common.toml",
+      "hash": "f9a8e03bbc79125cbe6c4fc72578ad202e37d921",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/quark-common.toml",
+      "hash": "deafaf858e0a2de06ca730cd8e39bed26ed1f4ab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/smoothboot.json",
+      "hash": "62a46dc49dee378bc17913c3050861fae131e21d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-client.toml",
+      "hash": "bba7e751f0a137338ee021db6b83610f8baac198",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "e6bb252de45147fad664cefd61d9e3e11b3f4f32",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/voxelmap.properties",
+      "hash": "34bd05c6be75ea3db399a36c7fb02a066e777c75",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waila/waila.json",
+      "hash": "a4f6e314d4ff2b42491f8ae499656a0ba926f305",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waila/waila_plugins.json",
+      "hash": "7333343f22c0bc326c9d1a9c557d22b9495a7e19",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waystones-client.toml",
+      "hash": "477f9029f50ed6254f59570a960d35775f74c0a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waystones-common.toml",
+      "hash": "b8174377b7ae154e916e76aa825e0c91d5419a00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waystones-server.toml",
+      "hash": "d46cec85b8c9acf73e1b6579dec4615a90e01778",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/client_scripts/script.js",
+      "hash": "dc1ef64bdacb3a600c87b627f1256c7b34260e0f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "4ffbc4a716382418e9b15c75ff981e7fbdb5c409",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "d17ff1d63daad0e469810aef249d3edff5f3bb4a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/blocks.txt",
+      "hash": "c6591e7025a4f7c2cd0568e37c62e68a84c3e79f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/enchantments.txt",
+      "hash": "afbf4dd7e2e8259285582c2be8cf71ee687ec343",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/entity_types.txt",
+      "hash": "b23b3e12f6379190a695b96f422b001cfae815bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/fluids.txt",
+      "hash": "c6a3954bd63c52d693110d3c57c8c50378659ebd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/functions.txt",
+      "hash": "f77ecc1e529ccce24b51a9799b6b8543c3dea9b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/items.txt",
+      "hash": "b52b3e858ae47542dfaeb9668c82d72a9a211e27",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/potions.txt",
+      "hash": "afbf4dd7e2e8259285582c2be8cf71ee687ec343",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/tile_entity_types.txt",
+      "hash": "afbf4dd7e2e8259285582c2be8cf71ee687ec343",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "0e8802b4f459b4918dcdd5a38aa4f28ace7c275d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/script.js",
+      "hash": "dcb3c4794d34b624d6f7e214990d125068425363",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/startup_scripts/script.js",
+      "hash": "20b9df49a0095c3353cad28f446d64708a090e5a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/OptiFine_1.16.5_HD_U_G8.jar",
+      "hash": "137363842c5bfdebb72356a4079faeef3157eb3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[AAPI]architectury-1.32.66 .jar",
+      "hash": "e0f8a7569e033feea68e3d18e243ba13b36b0a9d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[ARL]AutoRegLib-1.6-49.jar",
+      "hash": "921cf73b9d31bce5d332115a5144c3fca2010f93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[CC\u0026A]createaddition-1.16.5-20220129a.jar",
+      "hash": "5ecacd594837fc9d40a803fac41dcce726a49033",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[DFU优化]lazydfu-0.1.3.jar",
+      "hash": "3ce32ac0a8656f9ba27bfb4623358a51516f80ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[FPS减速器]FpsReducer-forge-1.24-mc1.16.5.jar",
+      "hash": "46b54c1dc54a560593d938cd73cee5c28e8465f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[JEI]jei-1.16.5-7.7.1.152.jar",
+      "hash": "3cc5fb94d2225af367a04fbc8b288644d6e8ac1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[KJS]kubejs-forge-1605.3.19-build.299.jar",
+      "hash": "91831aa8159e1076debd5f0daacf832d777b0f4a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Placebo]Placebo-1.16.5-4.7.0.jar",
+      "hash": "2c616fccc1888f90ddf60d947aa97c94481a33d7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Psi]Psi+1.16-97.jar",
+      "hash": "27893311063e7aa462c99222a75ae3ede7846845",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[万用皮肤]CustomSkinLoader_ForgeLegacy-14.14-SNAPSHOT-325.jar",
+      "hash": "a9f7808e939e84a676b83f7f7caa9d228993c10b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[传送石碑]Waystones_1.16.5-7.6.4.jar",
+      "hash": "986457447ebc040939214d5d59efb5529e3f9648",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[体素地图]forgemod_VoxelMap-1.10.12_for_1.16.5.jar",
+      "hash": "1e1691ab44e4bf2c943f53f9872ca552f760ef0c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[农夫乐事]FarmersDelight-1.16.5-0.6.0.jar",
+      "hash": "006e441f80aa2c97787cf9b968926a6b2eb22470",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[夸克]Quark-r2.4-322.jar",
+      "hash": "c314a534737baba9416c4947e15f81c6243f9844",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[实体渲染机制优化]entityculling-forge-mc1.16.5-1.5.2.jar",
+      "hash": "01a838e9fc804dee41fca6045012569fc5df42ce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[家具]cfm-7.0.0pre22-1.16.3.jar",
+      "hash": "565ec70fe30e3cd711e2b841de3265f176897283",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[工作台优化]FastWorkbench-1.16.5-4.6.1.jar",
+      "hash": "ce5f4d22ab99ede9479cd888e83c196e93b8718b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[帕秋莉]Patchouli-1.16.4-53.3.jar",
+      "hash": "cf7c2efc013a0247be4c2ce3f3d6a553643e00f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[应用能源2]appliedenergistics2-8.4.7.jar",
+      "hash": "094025e39c8334556c069f8c21b19b4a54966b13",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[星光]starlight-1.2.jar",
+      "hash": "1f975b1d90c6744e6a867f609fdea2fb35c18705",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[星辉前置]observerlib-1.16.5-1.5.3.jar",
+      "hash": "a5136bf50a6dba827ceb0e80cd1118bcba193a27",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[星辉魔法]astralsorcery-1.16.5-1.14.1.jar",
+      "hash": "3fb4261287576bbb72fdc0ff1fd88864c4e72fa2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[更好fps]betterfpsdist-1.2.jar",
+      "hash": "2bbfb89dbfb5275f0c7f31d8739fdd94461a183e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[机械动力]create-mc1.16.5_v0.3.2g.jar",
+      "hash": "5b32b0310d037deed14200e3b748bd02d46d9471",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[机械物品]create-stuff-additions1.16.5_v1.1.6.jar",
+      "hash": "90b2d67bed35c251cdfb1677d027cbe5cbcdea66",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[机械齿轮]creategears-1.16.5-1.3.3.jar",
+      "hash": "2f659984b4ef39d47cacc489eb898e18b04799fb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[流畅加载]smoothboot-forge-1.16.4-1.2.2.jar",
+      "hash": "483f6d696b5166fd0f3fbf6b2e8138bc39db2660",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[熔炉优化]FastFurnace-1.16.5-4.5.0.jar",
+      "hash": "c82de6591e933e65ab34cbec3be71787682488d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[犀牛]rhino-forge-1605.1.5-build.75.jar",
+      "hash": "d7cf08ed860845564a22cd17c1f17f857d4b33dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[玉]Jade-1.16.4-2.8.0.jar",
+      "hash": "108bb973835c12182fdd5478b99374d430fb4d81",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[电脑]cc-tweaked-1.16.5-1.100.8.jar",
+      "hash": "c2dd19017d2cabdfa6f15a86f47415b9f4e3025a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[矿石采掘]OreExcavation-1.8.157.jar",
+      "hash": "1a930f10c5fdd32b75088d73c8dff21fe4a4bc6e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[精妙背包]sophisticatedbackpacks-1.16.5-3.15.13.560.jar",
+      "hash": "102a8ab5b860712291d7db32dc5fd52b8cf52788",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[自动汉化]i18nupdatemod-1.16.5-2.0.4.jar",
+      "hash": "1131309fb6680bfe0cc0301305666beed65fea29",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[苹果皮]appleskin-forge-mc1.16.x-2.4.0.jar",
+      "hash": "556ba3ebdb401e0833e7151e7a7bca5f8fdac160",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[配方优化]FastSuite-1.16.4-1.1.1.jar",
+      "hash": "f95987729dc310151faaef22db834949fe4abe80",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[铁氧体磁芯]ferritecore-2.1.0-forge.jar",
+      "hash": "50e7db5712b5ab8a2d96624eaff11cacb067824a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[飞轮]flywheel-1.16-0.2.5.jar",
+      "hash": "30dbb119ce3d455bee065c0bef04a00827b3a5b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[饰品API]curios-forge-1.16.5-4.0.5.2.jar",
+      "hash": "a1fa288d1e52d8b0d6a3fc219ef414a31ed74b15",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[魔法Psi]magipsi-1.16.5-2.0.1.0.jar",
+      "hash": "393bcfc6ae4e16033f0b3ed876655df6008d4132",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "options.txt",
+      "hash": "6108f403ad5a73852b7f87cdb8a9a551c7f12422",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "8a1f89295739f557612235997d0d74c657815f3c",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 0,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}
